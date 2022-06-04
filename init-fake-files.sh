@@ -22,4 +22,5 @@ new_files() {
 
 }
 
-new_files $1
+# new_files $1
+new_files 3
